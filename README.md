@@ -30,12 +30,12 @@ While the lab proceeded smoothly overall, there were a few minor challenges:
 2. **[Challenge 2]**: Another issue was also adding collision to the enemies so that it removed a point from the player. I resolved this by using the knowledge I had gained on how I did this fo		r
 the coin collection and made it use the same collision method on my new enemy object.
 
+### Gameplay Video
+
+![Link to gameplay video mp4 download](Gameplay.mp4)
+
 ### Conclusion
 
 Completing this project independently allowed me to enhance my skills in unity, and I am satisfied with the final outcome. The experience was valuable and furthered my understanding of object oriented programming.
 
 I look forward to applying these learnings to future projects and continuing to develop my abilities.
-
-### Gameplay Video
-
-![Link to gameplay video mp4 download](Gameplay.mp4)
