@@ -3,7 +3,7 @@
 ### Introduction
 
 This sphere platformer project was completed independently, I encountered little techincal challenge throughout the process and found it to 
-be a very fun project with hopes to continue using unity 
+be a very fun project with hopes to continue using unity.
 
 
 ### Project Overview
