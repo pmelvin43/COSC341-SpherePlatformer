@@ -11,3 +11,10 @@
 *.png binary
 *.jpg binary
 *.dll binary
+
+* text=auto
+*.mat text eol=lf
+*.unity text eol=lf
+*.asset text eol=lf
+*.txt text eol=lf
+*.dwlt text eol=lf
